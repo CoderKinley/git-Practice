@@ -1,0 +1,11 @@
+# Hello git
+## Git command
+* git add
+* git commit
+* git log
+* git merge
+* git branch
+* git switch
+* git status
+* git diff
+* git cherry-pick
